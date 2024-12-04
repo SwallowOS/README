@@ -1,6 +1,5 @@
 ## Swallow OS
 ### 中文名为： 燕子系统
-### 不同阶段系统发布名称都叫:Swallow OS
 
 1. 系统底层C基础库使用安卓C库:bionic
 2. 系统链接器使用安卓的linker
