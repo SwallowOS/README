@@ -14,7 +14,7 @@
 
 ### 阶段一: SurfaceFlinger 主显示服务
 1. 使用安卓驱,适配手机平台
-2. X11 Server 作为安卓的Launcher
+2. X11 Server 作为安卓的Launcher: XSDL XServer
 3. 大量重新编译Linux软件
 4. 安卓软件管理切换到Linux用户界面中
 5. 重要系统应用切换为Linux内软件应用
