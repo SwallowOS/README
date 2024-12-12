@@ -30,4 +30,42 @@
 
 
 ### 致谢
-[使用了参考了相关项目成果](相关和相似的项目和系统.md)
+
+#### Linux & GUN
+
+#### LineageOS
+1. https://github.com/LineageOS
+2. https://www.lineageos.org
+
+#### libhybris
+1. https://github.com/libhybris/libhybris
+
+#### Halium
+1. https://halium.org
+2. https://github.com/Halium
+
+#### 旗鱼OS
+1. https://sailfishos.org
+2. https://jolla.com
+1. https://sailfishos.club
+
+#### Ubuntu touch
+1. https://ubports.com
+2. https://forums.ubports.com
+
+#### Droidian
+1. https://droidian.org
+2. https://github.com/droidian
+
+#### XServer-XSDL
+1. https://github.com/pelya/xserver-xsdl
+
+#### OPENTHOS
+1. 清华大学参与
+2. https://github.com/openthos
+3. https://openthos.github.io
+
+#### OpenFDE
+1. https://github.com/openfde
+2. https://openfde.com
+3. https://blog.csdn.net/OpenFDE
