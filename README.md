@@ -47,7 +47,7 @@
 #### 旗鱼OS
 1. https://sailfishos.org
 2. https://jolla.com
-1. https://sailfishos.club
+3. https://sailfishos.club
 
 #### Ubuntu touch
 1. https://ubports.com
