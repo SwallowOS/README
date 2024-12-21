@@ -5,7 +5,7 @@
 3. 系统目录层级当使用安卓驱动时直接合并Linux和安卓目录结构
 4. 硬件驱动做必要适配层: 安卓驱动、主线Linux驱动
 5. 使用systemd的init管理方案
-6. 多套用户界面支持: matchbox、早期ubuntu touch unity8、ubports lomiri、postmarketos的多种用户界面 等
+6. 多套用户界面支持: ubuntu touch unity8、ubports lomiri、postmarketos的多种用户界面 等
 7. 先做X11 Server支持,后续补充Wayland Server支持
 8. 循序渐进方案实现
 9. 定制安卓支持集成可插拔方案
@@ -65,7 +65,3 @@
 2. https://github.com/openthos
 3. https://openthos.github.io
 
-#### OpenFDE
-1. https://github.com/openfde
-2. https://openfde.com
-3. https://blog.csdn.net/OpenFDE
